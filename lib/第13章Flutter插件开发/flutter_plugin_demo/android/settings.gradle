@@ -1,0 +1,3 @@
+package 第13章Flutter插件开发.flutter_plugin_demo.android
+
+rootProject.name = 'flutter_plugin_demo'
